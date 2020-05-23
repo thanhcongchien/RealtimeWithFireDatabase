@@ -1,2 +1,2 @@
 # RealtimeWithFireDatabase
-**this is android project with firedatabase**
+**this is a android project with firedatabase**
